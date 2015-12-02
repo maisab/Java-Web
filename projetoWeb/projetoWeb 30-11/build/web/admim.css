@@ -1,0 +1,160 @@
+#blocoremover{
+    width: 250px;
+    height: 70px;
+    background-color: #CD3333;
+    border: 2px;
+    padding-left: 5px;
+    color: #ffffff;
+}
+#header {
+    width: 1000px;
+    height: 160px;
+    /* background:#a7db98;
+    /*#CD3333*/
+    /* padding-top: 10px;*/
+}
+
+#tudo {
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+
+}
+
+.acesso {
+    position: absolute;
+    float:right;
+    padding-right: 5px;
+    margin-right: 5px;
+    left: 900px;
+    top: 0px;
+    width: 200px;
+    display: block;
+
+}
+#sair{
+    float: right;
+    font-size: 18px;
+    left: 900px;
+    padding-right: 5px;
+    margin-right: 5px;
+    border-style: none;
+    background: #FFF68F;
+
+}
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 160px;
+    background-color:#ba2d2d;
+    background:url("images/fofos.jpg") 0 0 no-repeat #ba2d2d;
+    /** url("images/logo.jpg") 0 0 no-repeat #FFF68F;*/
+
+}
+
+#body2 {
+    width: 770px;
+    height: 650px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #FFF68F;
+    float: left;
+}
+
+
+#b{
+    width: 386px;
+    height: 600px;
+    float: left;
+}
+#b1{
+    width: 384px;
+    height: 600px;
+    float: left;
+}
+
+
+#blocomenu{
+    width: 190px;
+    height: 650px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    float: left;
+    background-color: #CD3333;
+    /*#FFF68F*/
+
+}
+img{
+    padding-top:5px;
+    
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+
+}
+
+ul li {
+    list-style: none;
+    width: 150px;
+    height: 25px;
+    background-color:#FFF68F ;
+    font-family: sans-serif;
+    font-size: 17px;
+
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+ul li:hover {
+    background-color: #e1e77b;
+
+}
+
+a{
+    color: #000000 ;
+    text-decoration: none;        
+}
+
+a:hover {
+    color: #CD3333;
+
+}
+
+#bodyLivro {
+    width: 770px;
+    height: 770px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #FFF68F;
+    float: left;
+}
+#blocomenuLivro{
+    width: 190px;
+    height: 770px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    float: left;
+    background-color: #CD3333;
+    /*#FFF68F*/
+
+}
+#b1Livro{
+    width: 200px;
+    height: 770px;
+    float: left;
+}
+#bLivro{
+    width: 500px;
+    height: 770px;
+    float: left;
+
+}
